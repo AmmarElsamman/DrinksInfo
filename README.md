@@ -1,8 +1,10 @@
 # Drinks Info
 
-Console based solution for drinks menu
+Console based solution for drinks menu.
 Developed using C# and MS SQL SERVER.
 Used third-party vendor’s data is to make requests to their APIs
+
+The API provider (https://www.thecocktaildb.com/api.php)
 
 # Given Requirements:
 
